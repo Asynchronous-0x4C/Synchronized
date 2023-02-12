@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "main_1.tmx",
+    "expandedProjectPaths": [
+        "tileSet",
+        "."
+    ],
+    "fileStates": {
+        "main_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199,
+                "y": -8.5
+            }
+        },
+        "tileSet/Solid_tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "G:/Sync_test/map",
+    "last.imagePath": "G:/Sync_test/map/images",
+    "map.fixedSize": false,
+    "map.height": 300,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 300,
+    "openFiles": [
+        "main_1.tmx"
+    ],
+    "project": "Synchronized.tiled-project",
+    "recentFiles": [
+        "main_1.tmx",
+        "tileSet/Solid_tile.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

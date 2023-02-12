@@ -1,0 +1,24 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "java/libs/core.jar",
+    "java/libs/fisica.jar",
+    "java/libs/gluegen-rt.jar",
+    "java/libs/gluegen-rt-natives-linux-aarch64.jar",
+    "java/libs/gluegen-rt-natives-linux-amd64.jar",
+    "java/libs/gluegen-rt-natives-linux-armv6hf.jar",
+    "java/libs/gluegen-rt-natives-linux-i586.jar",
+    "java/libs/gluegen-rt-natives-macosx-universal.jar",
+    "java/libs/gluegen-rt-natives-windows-amd64.jar",
+    "java/libs/gluegen-rt-natives-windows-i586.jar",
+    "java/libs/JBox2D-2.0.1-b250-Library.jar",
+    "java/libs/jogl-all.jar",
+    "java/libs/jogl-all-natives-linux-aarch64.jar",
+    "java/libs/jogl-all-natives-linux-amd64.jar",
+    "java/libs/jogl-all-natives-linux-armv6hf.jar",
+    "java/libs/jogl-all-natives-linux-i586.jar",
+    "java/libs/jogl-all-natives-macosx-universal.jar",
+    "java/libs/jogl-all-natives-windows-amd64.jar",
+    "java/libs/jogl-all-natives-windows-i586.jar"
+  ]
+}
